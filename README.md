@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d10,25:1a1f26,100:f5b04c&height=150&section=header&fontColor=ffffff&fontSize=34&fontAlignY=32&text=Hayti%20Kafley&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20SRE%20%E2%80%A2%20Observability&descAlignY=55&descSize=14">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0d10,25:1a1f26,100:f5b04c&height=150&section=header&fontColor=ffffff&fontSize=34&fontAlignY=32&text=Hayti%20Kafley&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20SRE%20%E2%80%A2%20Observability&descAlignY=55&descSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbfcfe,1:f3f5f8&height=150&section=header&fontColor=16181d&fontSize=34&fontAlignY=32&text=Hayti%20Kafley&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%E2%80%A2%20SRE%20%E2%80%A2%20Observability&descAlignY=55&descSize=14" />
 </picture>
 
 <p align="center">
@@ -146,5 +146,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f5b04c,100:0b0d10&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5b04c,100:0b0d10&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5b04c,100:fbfdff&height=100&section=footer" />
 </picture>
